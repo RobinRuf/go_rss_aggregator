@@ -1,4 +1,4 @@
-module github.com/RobinRuf/rss_aggregator
+module github.com/RobinRuf/go_rss_aggregator
 
 go 1.21.3
 
